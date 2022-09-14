@@ -6,7 +6,7 @@
  * GitHub Plugin URI: riccardodicurti/disable-update-notification-emails
  * Description: Disable all update notification emails ( core, plugin, themes ).
  * Author: Riccardo Di Curti
- * Version: 0.0.3
+ * Version: 0.0.4
  * Author URI: https://riccardodicurti.it/
  **/
 
